@@ -1,0 +1,11 @@
+usertype,station_name,latitude,longitude,num_rides,pct_rides
+Customer,Central Park S & 6 Ave,40.76590936,-73.97634151,75283,4.18
+Customer,Centre St & Chambers St,40.71273266,-74.0046073,65837,3.66
+Customer,5 Ave & E 88 St,40.78307,-73.95939,54244,3.01
+Customer,Grand Army Plaza & Central Park S,40.7643971,-73.97371465,52280,2.9
+Customer,12 Ave & W 40 St,40.76087502,-74.00277668,51305,2.85
+Customer,5 Ave & E 73 St,40.77282817,-73.96685276,47983,2.66
+Customer,West St & Chambers St,40.71754834,-74.01322069,44233,2.46
+Customer,Central Park West & W 72 St,40.775793766836657,-73.9762057363987,42927,2.38
+Customer,Central Park North & Adam Clayton Powell Blvd,40.799484,-73.955613,39021,2.17
+Customer,Pier 40 - Hudson River Park,40.7277140777778,-74.011295735836029,37159,2.06
